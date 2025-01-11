@@ -1,0 +1,7 @@
+datasets 
+requests 
+torch 
+torchvision 
+transformers 
+opencv-python
+
